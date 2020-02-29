@@ -16,7 +16,7 @@ prawcore==0.14.0
 psycopg2==2.7.3.2
 python-dateutil==2.6.1
 pytz==2017.3
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==0.6.2
 six==1.11.0
 textblob==0.11.1
