@@ -22,6 +22,6 @@ six==1.11.0
 textblob==0.11.1
 tweepy==3.5.0
 update-checker==0.16
-urllib3==1.22
+urllib3==1.26.5
 whitenoise==3.3.1
 XlsxWriter==1.0.2
