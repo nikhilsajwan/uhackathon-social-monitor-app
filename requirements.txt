@@ -7,7 +7,7 @@ gunicorn
 httplib2==0.10.3
 idna==2.6
 nltk==3.2.1
-numpy==1.14.1
+numpy==1.22.0
 oauth2==1.9.0.post1
 oauthlib==1.1.2
 pandas==0.22.0
